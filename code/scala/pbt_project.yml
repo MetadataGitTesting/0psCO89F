@@ -1,0 +1,49 @@
+name: lincoln.damore
+description: User-friendly
+version: 0.0.1
+author: 68tilnkc.ozon1ftz@bvocm5it.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: lincolndamore
+  parentArtefactID: team1732306590089
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:17:01'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:17:03'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:17:03.392382Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '696466148'
+  createdAt: '2024-11-22T20:17:03.392382Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
